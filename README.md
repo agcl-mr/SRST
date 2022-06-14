@@ -1,7 +1,7 @@
 # SRST 
 
 Surface Reconstruction using Solitary Triangle, is a program for reconstructing a 3D model retaining the solitary triangles.
-Copyright (C) 2017 Subhasree Methirumangalath, Amal Dev Parakkat, Shyam Sundar Kannan, , and Ramanathan Muthuganapathy, Advanced Geometric Computing Lab, Department of Engineering Design, IIT Madras, Chennai, India.
+Copyright (C) 2017 Subhasree Methirumangalath, Amal Dev Parakkat, Shyam Sundar Kannan and Ramanathan Muthuganapathy, Advanced Geometric Computing Lab, Department of Engineering Design, IIT Madras, Chennai, India.
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
