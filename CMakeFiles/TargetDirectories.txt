@@ -1,0 +1,3 @@
+/media/raman/My Files/SRST with PP/CMakeFiles/rebuild_cache.dir
+/media/raman/My Files/SRST with PP/CMakeFiles/edit_cache.dir
+/media/raman/My Files/SRST with PP/CMakeFiles/srst.dir
