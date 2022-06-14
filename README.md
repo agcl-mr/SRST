@@ -1,6 +1,15 @@
-# SRST (Surface Reconstruction using Solitary Triangle)
-CGAL implementation of the paper- Reconstruction using a simple triangle removal approach by Subhasree Methirumangalath, Amal Dev Parakkat, Shyam Sundar Kannan, Ramanathan Muthuganapathy: Published as aTechnical Brief in SIGGRAPH Asia 2017
-The algorithm uses Delaunay triangualtion to reconstructs a 3D point cloud in to a mesh by retaining solitary triangles
+# SRST 
+
+Surface Reconstruction using Solitary Triangle, is a program for reconstructing a 3D model retaining the solitary triangles.
+Copyright (C) 2017 Subhasree Methirumangalath, Amal Dev Parakkat, Shyam Sundar Kannan, , and Ramanathan Muthuganapathy, Advanced Geometric Computing Lab, Department of Engineering Design, IIT Madras, Chennai, India.
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+Surface Reconstruction using Solitary Triangle is proposed in the paper - Reconstruction using a simple triangle removal approach by Subhasree Methirumangalath, Amal Dev Parakkat, Shyam Sundar Kannan, Ramanathan Muthuganapathy:accepted as a Technical Brief in SIGGRAPH Asia 2017
+The algorithm uses Delaunay triangualtion to reconstructs a 3D point cloud in to a mesh by retaining solitary triangles.
 
 Compilation:
 The code needs CGAL (Computational Geometry Algorithm Library) for compilation. 
