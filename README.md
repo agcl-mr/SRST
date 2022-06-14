@@ -8,7 +8,7 @@ it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.
 
-SRST is proposed in the paper - Reconstruction using a simple triangle removal approach by Subhasree Methirumangalath, Amal Dev Parakkat, Shyam Sundar Kannan, Ramanathan Muthuganapathy:accepted as a Technical Brief in SIGGRAPH Asia 2017. The algorithm uses Delaunay triangualtion to reconstructs a 3D point cloud in to a mesh by retaining solitary triangles.
+SRST is proposed in "Reconstruction using a simple triangle removal approach" by Subhasree Methirumangalath, Amal Dev Parakkat, Shyam Sundar Kannan, Ramanathan Muthuganapathy: accepted as a Technical Brief in SIGGRAPH Asia 2017. Given a 3D point cloud, the algorithm uses Delaunay triangualtion to reconstruct a mesh by retaining solitary triangles.
 
 Compilation:
 The code needs CGAL (Computational Geometry Algorithm Library) for compilation. 
